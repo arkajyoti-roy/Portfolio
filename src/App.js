@@ -8,7 +8,6 @@ import Skills from "./Components/Skills";
 import Projects from "./Components/Projects";
 import Social from "./Components/Social";
 import Footer from "./Components/Footer";
-// import Test from "./Components/Test";
 
 function App() {
   return (
@@ -21,7 +20,6 @@ function App() {
         <Education />
         <Skills />
         <Projects />
-{/* <Test/> */}
         <Social />
         <Footer />
       </div>
