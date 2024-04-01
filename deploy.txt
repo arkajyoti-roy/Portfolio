@@ -1,0 +1,8 @@
+ -----At---Top-----
+ "homepage": "https://arka445.github.io/Portfolio",
+
+
+
+-----Script-----
+ "predeploy": "npm run build",
+ "deploy": "gh-pages -d build",
