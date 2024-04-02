@@ -5,7 +5,7 @@ import "./App.css"
 
 const Header=()=>{
   return (
-    <div className="flex justify-between shadow-sm w-full bg-white">
+    <div className="flex justify-between shadow-sm w-full bg-white fixed top-0 left-0 z-10">
       {/* <div className= "hember"> */}
       <div className="flex items-center justify-center"> 
         <img src="./img/react.png" alt="logoo" className="logo ml-4" />

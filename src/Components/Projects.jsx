@@ -39,7 +39,7 @@ function SamplePrevArrow(props) {
       initialSlide: 0,
       autoplay: true,
       speed: 2000,
-      autoplaySpeed: 5000,
+      autoplaySpeed: 3500,
       pauseOnHover: true,
       nextArrow: <SampleNextArrow />,
       prevArrow: <SamplePrevArrow />

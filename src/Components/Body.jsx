@@ -3,7 +3,7 @@ import React from 'react'
 import "./App.css"
 const Body = () => {
   return (
-    <div className='sm: flex justify-between pl-4'>
+    <div className='sm: flex justify-between pl-4 mt-20'>
      <div className="sm: box-border h-30 w-30 p-0 border-4 ... rounded-full">
 <img src="./img/main.png" className='sm: object-cover rounded-full h-32 w-32  ' alt=""  />
      </div>
