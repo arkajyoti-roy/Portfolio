@@ -49,7 +49,7 @@ function SamplePrevArrow(props) {
 
 
     <div className="slider-container" id="pro">
-  <h2 className="text-center font-semibold pb-5">Projects</h2>
+  <h2 className="text-center font-semibold pb-5">Projects:</h2>
      <div className="">
       <Slider {...settings}>
        
@@ -67,7 +67,7 @@ function SamplePrevArrow(props) {
 
                   <div className="flex justify-between cursor-pointer">
 
-                       <a href="https://github.com/arka445/WorkStream" target="_blank">  <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">GitHub</button></a>
+                       <a href="https://github.com/arkajyoti-roy/WorkStream" target="_blank">  <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">GitHub</button></a>
    
                       <a href="https://workstream2.000webhostapp.com/log.php" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Live</button></a>
 
@@ -93,9 +93,9 @@ function SamplePrevArrow(props) {
 
                <div className="flex justify-between cursor-pointer">
 
-                 <a href="https://github.com/arka445/aroma" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">GitHub</button></a>
+                 <a href="https://github.com/arkajyoti-roy/aroma" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">GitHub</button></a>
    
-                 <a href="https://arka445.github.io/aroma/" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Live</button></a>
+                 <a href="https://arkajyoti-roy.github.io/aroma/" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Live</button></a>
 
                </div>
 
@@ -117,9 +117,9 @@ function SamplePrevArrow(props) {
  
                              <div className="flex justify-between cursor-pointer">
 
-                                <a href="https://github.com/arka445/JobHunt" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">GitHub</button></a>
+                                <a href="https://github.com/arkajyoti-roy/JobHunt" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">GitHub</button></a>
 
-                                 <a href="https://arka445.github.io/JobHunt/" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Live</button></a>
+                                 <a href="https://arkajyoti-roy.github.io/JobHunt/" target="_blank"> <button className="box-border h-12 w-20 p-4 border-2 rounded-2xl mt-6  text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 pb-8 focus:ring-blue-300 font-medium text-center text-sm px-3.5  me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Live</button></a>
 
                               </div>
 
