@@ -14,6 +14,8 @@ function App() {
     <>
       {/* <div className="main"> */}
       <div className="bg-violet-50 min-h-screen flex flex-col gap-16">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2415326418444459"
+     crossorigin="anonymous"></script>
         <Header />
         <Body />
         <Box />
